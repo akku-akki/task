@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.223" height="55.042" viewBox="0 0 56.223 55.042">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.575" y1="1.018" x2="0.569" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#75d9ff"/>
+      <stop offset="1" stop-color="#2cc5ff"/>
+    </linearGradient>
+    <filter id="Path_7" x="0" y="0.463" width="54.188" height="54.188" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_22" x="1.182" y="0" width="55.042" height="55.042" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ic_share" x="14.844" y="13.878" width="26.323" height="28.205" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ic_share-2" data-name="ic_share" transform="translate(70.379 74.188) rotate(180)">
+    <g transform="matrix(-1, 0, 0, -1, 70.38, 74.19)" filter="url(#Path_7)">
+      <path id="Path_7-2" data-name="Path 7" d="M22.594,45.188A22.594,22.594,0,1,0,0,22.594,22.594,22.594,0,0,0,22.594,45.188Z" transform="translate(49.69 49.15) rotate(180)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(-1, 0, 0, -1, 70.38, 74.19)" filter="url(#Path_22)">
+      <path id="Path_22-2" data-name="Path 22" d="M24.521,0A24.521,24.521,0,1,1,0,24.521,24.521,24.521,0,0,1,24.521,0Z" transform="translate(4.18 2)" fill="#2cc7ff"/>
+    </g>
+    <path id="Path_23" data-name="Path 23" d="M24.521,0C38.063,0,49.042,10.582,49.042,23.637S39.239,30.3,25.7,30.3,0,36.691,0,23.637,10.978,0,24.521,0Z" transform="translate(66.197 72.188) rotate(180)" fill="#75fbff"/>
+    <path id="Path_24" data-name="Path 24" d="M24.521,0C38.063,0,49.042,9.791,49.042,21.868s-9.448,18.8-21.37,21.456S0,33.945,0,21.868,10.978,0,24.521,0Z" transform="translate(66.197 68.65) rotate(180)" fill="#48e6ff"/>
+    <path id="Path_25" data-name="Path 25" d="M3.806,0c2.161,0,4.02.4,4.02,1.013s-1.792.537-3.953.537S0,1.631,0,1.013,1.645,0,3.806,0Z" transform="matrix(-0.719, 0.695, -0.695, -0.719, 57.869, 62.207)" fill="#fff"/>
+    <path id="Path_26" data-name="Path 26" d="M1.72,0C2.7,0,3.536.326,3.536.835s-.81.443-1.786.443S0,1.343,0,.835.743,0,1.72,0Z" transform="matrix(-0.454, 0.891, -0.891, -0.454, 59.571, 58.139)" fill="#fff"/>
+    <g transform="matrix(-1, 0, 0, -1, 70.38, 74.19)" filter="url(#ic_share)">
+      <path id="ic_share-3" data-name="ic_share" d="M18,16.08l-1,.044L8.276,11.378c.05-.23.724.862.724.622a3.274,3.274,0,0,0-.09-.7l7.05-4.11A5.224,5.224,0,0,0,18,8a3,3,0,0,0,3-3,3.2,3.2,0,0,0-2.964-3.252A3.123,3.123,0,0,0,14.668,4.4s.858-.568-6.957,4.387A9.113,9.113,0,0,1,6,9a3,3,0,0,0,0,6c.79,0,1.255-.412,2.1-.563s5.768,3.036,6.312,3.46a1.4,1.4,0,0,1,.556.99A3.114,3.114,0,0,0,18,21.91a2.915,2.915,0,1,0,0-5.83Z" transform="translate(17.54 13.78) rotate(7)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155.769" height="155.769" viewBox="0 0 155.769 155.769">
+  <defs>
+    <filter id="Path_33" x="0" y="0" width="155.769" height="155.769" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ic_star" transform="translate(169.999 172.495) rotate(180)">
+    <g transform="matrix(-1, 0, 0, -1, 170, 172.5)" filter="url(#Path_33)">
+      <path id="Path_33-2" data-name="Path 33" d="M63.871,0A63.871,63.871,0,1,1,0,63.871,63.871,63.871,0,0,1,63.871,0Z" transform="translate(27.37 2) rotate(11)" fill="#f71e1e"/>
+    </g>
+    <path id="Path_34" data-name="Path 34" d="M63.871,0c35.275,0,63.871,27.565,63.871,61.568S102.209,78.923,66.934,78.923,0,95.571,0,61.568,28.6,0,63.871,0Z" transform="translate(142.624 170.495) rotate(-169)" fill="#ff757e"/>
+    <path id="Path_35" data-name="Path 35" d="M63.871,0c35.275,0,63.871,25.5,63.871,56.961S103.056,106.407,72,113.317,0,88.42,0,56.961,28.6,0,63.871,0Z" transform="translate(144.382 161.451) rotate(-169)" fill="#ff485a"/>
+    <path id="Path_36" data-name="Path 36" d="M10.935,0c6.209,0,11.548,1.137,11.548,2.911S17.336,4.455,11.127,4.455,0,4.685,0,2.911,4.726,0,10.935,0Z" transform="matrix(-0.839, 0.545, -0.545, -0.839, 131.372, 140.233)" fill="#fff"/>
+    <path id="Path_37" data-name="Path 37" d="M4.941,0c2.805,0,5.218.937,5.218,2.4S7.833,3.67,5.028,3.67,0,3.859,0,2.4,2.136,0,4.941,0Z" transform="matrix(-0.616, 0.788, -0.788, -0.616, 138.403, 129.694)" fill="#fff"/>
+    <path id="Icon_awesome-heart" data-name="Icon awesome-heart" d="M52.109,3.4C45.932-1.785,36.746-.852,31.076,4.914L28.856,7.17l-2.22-2.255C20.977-.852,11.78-1.785,5.6,3.4A15.8,15.8,0,0,0,4.487,26.5L26.3,48.7a3.569,3.569,0,0,0,5.106,0l21.81-22.2a15.789,15.789,0,0,0-1.1-23.1Z" transform="translate(116.106 121.844) rotate(-172)" opacity="0.2"/>
+  </g>
+</svg>
